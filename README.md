@@ -6,3 +6,5 @@ created my tarun
 Let's use git push -u (means creating upstream)
 
 bla bla blaaa
+
+add and commit together
